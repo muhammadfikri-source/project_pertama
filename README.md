@@ -1,4 +1,4 @@
 # project_pertama
-ini adalah repository pertama saya
+ini adalah repository  saya
 
 ini repository buat belajar github
